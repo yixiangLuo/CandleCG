@@ -1,0 +1,50 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 04.08.2015 12:29:14
+
+newmtl candle
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.3098 0.8353 0.6039
+	Kd 0.3098 0.8353 0.6039
+	Ks 0.3500 0.3500 0.3500
+	map_Ka candle_engraved.jpg
+    map_Kd brushed_metal_refl.jpg
+    map_Ks brushed_metal_refl.jpg
+
+newmtl candle_top
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.3098 0.8353 0.6039
+	Kd 0.3098 0.8353 0.6039
+	Ks 0.3500 0.3500 0.3500
+    map_Kd candle_top.jpg
+    map_Ks candle_top_s.jpg
+
+newmtl candlewick
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.3098 0.8353 0.6039
+	Kd 0.3098 0.8353 0.6039
+	Ks 0.3500 0.3500 0.3500
+    map_Kd candlewick.jpg
+
+newmtl flame
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.3098 0.8353 0.6039
+	Kd 0.3098 0.8353 0.6039
+	Ks 0.3500 0.3500 0.3500
+    map_Ka candle_flame_o.jpg
+	map_Kd candle_flame.jpg
