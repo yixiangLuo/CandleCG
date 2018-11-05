@@ -44,7 +44,7 @@ This may incur problems when the front object is rendered first and the depth te
 
 Unfortunately, since the two flame planes intersect with each other, we cannot simply render the objects in descent order of distance to the camera to avoid this problem. In this scenario, we need more advanced techniques like order independent transparency, which I don't know yet.
 
-Useage
+Usage
 --------------------
 
 0. Download the source code:
