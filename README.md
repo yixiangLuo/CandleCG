@@ -47,11 +47,6 @@ Unfortunately, since the two flame planes intersect with each other, we cannot s
 Usage
 --------------------
 
-0. Download the source code:
-   ```
-   git clone https://github.com/nyu-cg-spring-18/final-project-yixiangLuo.git
-   ```
-
 1. Create a directory called `build` in the main directory, e.g.:
    ```
    mkdir build
@@ -62,7 +57,7 @@ Usage
    ```
 3. Compile and run the compiled executable by typing:
    ```
-   make; ./final_project
+   make; ./candle_flame
    ```
 
 In the program,
